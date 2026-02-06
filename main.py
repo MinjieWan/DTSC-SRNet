@@ -2,7 +2,7 @@ import argparse
 
 
 def main():
-    parser = argparse.ArgumentParser(description='MISR ConvLSTM Training and Testing')
+    parser = argparse.ArgumentParser(description='DTSC-SRNet Training and Testing')
     parser.add_argument('--mode', type=str, default='train', choices=['train', 'test'],
                         help='Mode: train or test')
 
@@ -17,4 +17,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
