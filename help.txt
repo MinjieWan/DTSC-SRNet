@@ -1,0 +1,6 @@
+RBSR×4:folder1,folder3,folder5,folder6.
+model:checkpoint_epochZ_192.pth
+SBSR×4:lr_outputlarge384,gtlarge384,lrlarge384,gtlargetest384.
+model:checkpoint_epoch_1077.pth
+SBSR×8:lr_output_v8+,gtlarge384,lr_output_testv8+,gtlargetest384.
+model:checkpoint_epoch_786.pth
