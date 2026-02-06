@@ -22,12 +22,12 @@ pip install numpy scipy lpips pillow
 ```
 
 # Dataset
-We provide the dataset of our work. You can download it by the following link: [dataset](https://pan.baidu.com/s/12EC2qY9ZBTGvlB386uLFtA) code:mkdn
-Put the dataset in the dataset folder
+We provide the dataset of our work. You can download it by the following link: [dataset](https://pan.baidu.com/s/12EC2qY9ZBTGvlB386uLFtA) code:mkdn.
 
 # Usage
 
-Download and release DTSC.zip. 
-Setup the required parameters.
+Download and release DTSC.zip. <br>
+Put the dataset in the dataset folder<br>
+Setup the required parameters.<br>
 Run main.py for training or testing.
 
