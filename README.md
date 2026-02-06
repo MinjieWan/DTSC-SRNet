@@ -27,7 +27,7 @@ We provide the dataset of our work. You can download it by the following link: [
 # Usage
 
 Download and release DTSC.zip. <br>
-Put the dataset in the dataset folder<br>
-Setup the required parameters.<br>
+Put the dataset in the dataset folder. <br>
+Setup the required parameters. <br>
 Run main.py for training or testing.
 
